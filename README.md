@@ -28,6 +28,6 @@ Hi, I am Ashwin and i design and develop user interfaces. I am experienced in HT
 <br>
 <h2>What's up with me these days ?</h2>
 
--   Building a production ready discord music bot where users can create their own playlist and play it in any voice channel with a command. Its a feature no music bot have right now.
+-   Building a production ready discord music bot with a never before introduced feature where users can create their own playlist and play it in any voice channel with a command.
 
--   I have made a lot of side-projects for fun. I am documenting (and some clean-ups)them so i could push them to github for everyone.
+-   Getting Into WEB 3.0
