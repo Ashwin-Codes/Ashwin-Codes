@@ -1,4 +1,12 @@
 <img src="./imgs/header.gif">
+
+`Quick Links` <br>
+
+[**Website**](https://ashwincodes.com) /
+[**CLI**](https://www.npmjs.com/package/ashwincodes) /
+[**LinkedIn**](https://www.linkedin.com/in/ashwin-codes) /
+[**Medium**](https://medium.com/@AshwinCodes)
+
 <br>
 
 `About`
