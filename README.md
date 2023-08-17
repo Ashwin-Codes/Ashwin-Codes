@@ -24,6 +24,10 @@
 
 ```JSON
 {
+ "hiway": {
+    "live":"https://hiway.ashwincodes.com",
+    "code":"https://github.com/ashwincodes/hiway"
+ },
  "updrop": {
     "live":"https://updrop.ashwincodes.com",
     "code":"https://github.com/ashwincodes/updrop"
